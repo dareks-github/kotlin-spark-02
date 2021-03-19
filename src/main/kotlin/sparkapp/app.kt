@@ -1,4 +1,4 @@
-package sparkapp
+package main.kotlin.sparkapp
 
 import spark.Spark.*
 
