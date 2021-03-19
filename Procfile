@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* sparkapp.AppKt
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* main.kotlin.sparkapp.AppKt
